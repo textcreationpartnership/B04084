@@ -1,0 +1,498 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of the subscribers to the Land-Bank</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04084</idno>
+            <idno type="STC">Wing L2478CA</idno>
+            <idno type="STC">ESTC R179843</idno>
+            <idno type="EEBO-CITATION">53981765</idno>
+            <idno type="OCLC">ocm 53981765</idno>
+            <idno type="VID">180276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180276)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of the subscribers to the Land-Bank</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cockerill at the Three Legs in the Poultry, and Edward Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Names printed in two columns.</note>
+                  <note>Dated at end: November the 22th, 1695.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land Bank (London, England) --  Registers --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb n="1" facs="tcp:180276:1" rendition="simple:additions"/>
+            <head>
+               <hi>Land-Bank, Exeter-Change,</hi> A LIST OF THE NAMES of the Subſcribers TO THE LAND-BANK.</head>
+            <p>
+               <hi>Note that the Perſons qualified to be Choſen Truſtees and Managers, are marked thus,</hi> *</p>
+            <list>
+               <head>A</head>
+               <item>* MOrdecai Abbott</item>
+               <item>Vincent Alſop</item>
+               <item>Gabriel Armiger</item>
+               <item>* John Aſgill</item>
+               <item>Joſeph Aſhley</item>
+               <item>* William Aſpin</item>
+               <item>John Atterbury <hi>Junior</hi>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>* Sir Owen Buckingham</item>
+               <item>* Samuel Ball</item>
+               <item>* Edward Barradell</item>
+               <item>* <hi>Dr.</hi> Nicholas Barbon</item>
+               <item>* John Baily</item>
+               <item>John Beal</item>
+               <item>Judith Bee</item>
+               <item>James Bengough</item>
+               <item>Huntley Bigg</item>
+               <item>* John Billers</item>
+               <item>John Bland</item>
+               <item>James Boardman</item>
+               <item>P. <hi>de</hi> Boyville</item>
+               <item>* John Borrett</item>
+               <item>
+                  <hi>Mrs.</hi> Maria Boyer</item>
+               <item>* Robert Breedon</item>
+               <item>Tho. Breton</item>
+               <item>George Bride</item>
+               <item>Tho. Bromfield</item>
+               <item>John Brookes</item>
+               <item>* Thomas Brotherton</item>
+               <item>* Robert Browne</item>
+               <item>Robert Browning</item>
+               <item>* Henry Buck</item>
+               <item>John Budgett</item>
+               <item>* Thomas Bureau</item>
+               <item>George Burrard</item>
+               <item>* Lancelot Burton</item>
+               <item>Deborah Burton</item>
+               <item>Richard Burton</item>
+               <item>Robert Burton</item>
+               <item>John Butcher</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>* John Clarke</item>
+               <item>Gyles Campion</item>
+               <item>* Adam Cardonell</item>
+               <item>John Catchlove</item>
+               <item>John Chaiſe</item>
+               <item>* Francis Chapman</item>
+               <pb n="2" facs="tcp:180276:2" rendition="simple:additions"/>
+               <item>* Thomas Cheret</item>
+               <item>William Child</item>
+               <item>Jane Church</item>
+               <item>James Clerk</item>
+               <item>Thomas Cockerill</item>
+               <item>* Thomas Coleby <hi>Senior</hi>
+               </item>
+               <item>* Thomas Coleby <hi>Junior</hi>
+               </item>
+               <item>John Dutton Colt</item>
+               <item>* Thomas Compere</item>
+               <item>* Stephen Cooke</item>
+               <item>James Cooper</item>
+               <item>Richard Cotton</item>
+               <item>* James Cotton</item>
+               <item>* John Crawley</item>
+               <item>Anthony Cracherode</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>* Richard Dalton</item>
+               <item>* Francis Dandridge</item>
+               <item>* Paul Darby</item>
+               <item>Roger Darby</item>
+               <item>* James Deanes</item>
+               <item>Elizabeth Dodd</item>
+               <item>Robert Donne</item>
+               <item>Joſeph Duglis</item>
+               <item>
+                  <add>John Dolphin</add>
+               </item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Henry Emmett</item>
+               <item>Jaſper Engliſh</item>
+               <item>Samuel Eſteve</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>* <hi>Sir</hi> William Foreſter</item>
+               <item>John Farcy</item>
+               <item>Edward Fenwick</item>
+               <item>* William Fenwicke</item>
+               <item>Elizabeth Fickes</item>
+               <item>* Thomas Foley</item>
+               <item>* Philip Foley</item>
+               <item>John Foltrop</item>
+               <item>Thomas Freeman</item>
+               <item>* Francis Fuller</item>
+               <item>
+                  <add>*George Furneſſe</add>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>* Lewis Galand</item>
+               <item>Leonard Gammon <hi>Junior</hi>
+               </item>
+               <item>* Peter Gery</item>
+               <item>* <hi>Dr.</hi> William Gibbons</item>
+               <item>John Girard</item>
+               <item>Moſes Giraudeau</item>
+               <item>* John Goddard</item>
+               <item>* Thomas Glover</item>
+               <item>* Alexander Goodall</item>
+               <item>* Thomas Gratwick</item>
+               <item>* Ro. Gregſon</item>
+               <item>* Thomas Gery</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>* <hi>Sir</hi> Joſeph Herne</item>
+               <item>* <hi>Sir</hi> Charles Hedges</item>
+               <item>
+                  <hi>Sir</hi> Robert Harriſon</item>
+               <item>
+                  <hi>The Lady</hi> Katherine Harman</item>
+               <item>Peter Hall</item>
+               <item>William Hall</item>
+               <item>* James Hallet</item>
+               <item>
+                  <hi>Mrs.</hi> Ann Hargrave</item>
+               <item>* Thomas Harley</item>
+               <item>* Edward Harley</item>
+               <item>* Richard Harnage</item>
+               <item>* Edward Haiſtwell</item>
+               <item>Charles Haughton</item>
+               <item>* George Hawes</item>
+               <item>Thomas Hawgood</item>
+               <item>Henry Hayter</item>
+               <item>Daniel Hearſon</item>
+               <item>* Charles Herle</item>
+               <item>Edward Higgins</item>
+               <item>William Higgs</item>
+               <item>Samuel Hiller</item>
+               <item>* James Hooper</item>
+               <item>* Charles Hooper</item>
+               <item>* John Hopkins</item>
+               <item>* Ralph Hough</item>
+               <item>William Hudleſton</item>
+               <item>
+                  <hi>Dr.</hi> Edward Hulſe</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>* <hi>The Right Honourable</hi> Tho. <hi>Lord</hi> Jermyn.</item>
+               <item>Peter Jeyes</item>
+               <item>* Henry Ireton</item>
+               <item>Francis Iſham</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>* John Keene</item>
+               <item>* Maurice Kendall</item>
+               <item>William Kirk</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>* Joſeph Lane</item>
+               <item>Obadiah Lane</item>
+               <item>Thomas Launder</item>
+               <item>* Samuel Lawrence</item>
+               <item>* Nicholas Lechmere</item>
+               <item>* Richard Leehmere</item>
+               <item>William Leeke</item>
+               <item>Peter van Leenwen</item>
+               <pb n="3" facs="tcp:180276:2" rendition="simple:additions"/>
+               <item> Suſanna Leighton</item>
+               <item>Peter Leneve</item>
+               <item>Tertullian Lewis</item>
+               <item>William Lilly</item>
+               <item>* Peter Lombard</item>
+               <item>* Edward Lloyd</item>
+               <item>* Thomas Lucas</item>
+               <item>* Nehemiah Lyde</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>* <hi>Sir</hi> Thomas Mompeſſon</item>
+               <item>
+                  <hi>The Lady</hi> Maſon</item>
+               <item>Philip Margas</item>
+               <item>* John Martyn</item>
+               <item>George Mathewes</item>
+               <item>* Anthony Meek</item>
+               <item>Hugh Merchant</item>
+               <item>John Meres</item>
+               <item>John Merryon</item>
+               <item>John Miles</item>
+               <item>Michael Miles</item>
+               <item>Richard Miller</item>
+               <item>* John Mills</item>
+               <item>* William Milman</item>
+               <item>Thomas Moody</item>
+               <item>Benjamin Morland</item>
+               <item>Samuel Morland</item>
+               <item>
+                  <hi>Mrs.</hi> Lydia Morland</item>
+               <item>Claudegroteſte <hi>de La</hi> Mothe</item>
+               <item>Thomas Mulſo</item>
+               <item>Thomas Murray</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>Katherine Nevell</item>
+               <item>* Michael Noble</item>
+               <item>George Norkett</item>
+               <item>John Norris <hi>Senior</hi>
+               </item>
+               <item>* Hugh North</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>Walter Overbury</item>
+               <item>* Newdigate Owſley</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>* Philip Parker</item>
+               <item>John Pain</item>
+               <item>* Joſeph Paice</item>
+               <item>Dorothy Pomeroy</item>
+               <item>Thomas Parry</item>
+               <item>Theophilus Parſon</item>
+               <item>* Edward Pauncefort</item>
+               <item>Tracy Pauncefort</item>
+               <item>* John Pearſon</item>
+               <item>Thomas Pearſon</item>
+               <item>* Samuel Pett</item>
+               <item>
+                  <add>the hon<hi rend="sup">ble</hi> Henry Pagel</add>
+               </item>
+               <item>Richard Petty</item>
+               <item>Peter Potter</item>
+               <item>* William Preſcott</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>* <hi>Sir</hi> Thomas Rowe</item>
+               <item>* <hi>Sir</hi> Leonard Robinſon</item>
+               <item>Samuel Read</item>
+               <item>Alexander Reaſon</item>
+               <item>John Reynalds</item>
+               <item>Rowland Reynolds</item>
+               <item>* <hi>Colonel</hi> Jacob Richards</item>
+               <item>William Richards</item>
+               <item>* <hi>Captain</hi> Nicholas Richards</item>
+               <item>David Richards</item>
+               <item>Walter Riddell</item>
+               <item>* Nicholas Roberts</item>
+               <item>Henry Roberts</item>
+               <item>
+                  <hi>Mrs.</hi> Elizabeth Roberts</item>
+               <item>Jonathan Robinſon</item>
+               <item>Henry Roſs</item>
+               <item>Thomas Rotheram</item>
+               <item>* John Roydhouſe</item>
+               <item>* <hi>Captain</hi> Richard Ryder</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>Robert Sanderſon</item>
+               <item>Edward Sandford</item>
+               <item>* Ambroſe Seccombe</item>
+               <item>Henry Shelly</item>
+               <item>Samuel Shephard</item>
+               <item>Daniel Sheppard</item>
+               <item>
+                  <hi>Captain</hi> Thomas Silver</item>
+               <item>* William Sinkler</item>
+               <item>John Smallwell</item>
+               <item>* John Smith, <hi>under</hi> S.</item>
+               <item>
+                  <hi>Captain</hi> John Smith</item>
+               <item>Jonathan Smith</item>
+               <item>Henry Southouſe <hi>Junior</hi>
+               </item>
+               <item>John Spackman</item>
+               <item>* Nicholas Spalden</item>
+               <item>John Spence</item>
+               <item>* Arnold Squibb</item>
+               <item>Edmond Stag</item>
+               <item>Edward Stedman</item>
+               <item>* Lancelot Stepney</item>
+               <item>* Alexander Stevenſone</item>
+               <item>* <hi>Dr.</hi> William Stokeham</item>
+               <item>Samuel Story</item>
+               <item>* Robert Streeter</item>
+               <item>Richard Stretton</item>
+               <item>* Thomas Sutton</item>
+               <item>* Thomas Swynborne</item>
+               <item>Philip Symons</item>
+            </list>
+            <list>
+               <pb n="4" facs="tcp:180276:3" rendition="simple:additions"/>
+               <head>T.</head>
+               <item>* Thomas Taylor</item>
+               <item>Nath. Taylor</item>
+               <item>* John Tayleur</item>
+               <item>Bejamain Tudman</item>
+               <item>* Joſeph Thompſon</item>
+               <item>Tho. Thybault</item>
+               <item>Richard Thwaites</item>
+               <item>Barbara Trehern</item>
+               <item>* <hi>M. G.</hi> Trelawny</item>
+               <item>* <hi>Colonel</hi> Henry Trelawny</item>
+               <item>Francis Tuckwell</item>
+               <item>John Tully</item>
+               <item>* Robert Tracy</item>
+               <item>* Thomas Trench</item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>John Verger</item>
+               <item>Jacob Vincene</item>
+               <item>John Underhill</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>* <hi>Sir</hi> Edmund Wiſeman</item>
+               <item>* William Wallis</item>
+               <item>Thomas Walker</item>
+               <item>* Henry Ward</item>
+               <item>John Warr</item>
+               <item>William Weſt</item>
+               <item>* John Weſton</item>
+               <item>* Robert White</item>
+               <item>Daniel Wight</item>
+               <item>Daniel Williams</item>
+               <item>William Williams</item>
+               <item>Herbert Williamſon</item>
+               <item>* Tho. Winford, <hi>Prothonotary</hi>
+               </item>
+               <item>* Jaques Wiſeman</item>
+               <item>* William Wollet</item>
+               <item>* Baſil Woodd</item>
+               <item>Edward Woodhouſe</item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>Warwick Yard</item>
+            </list>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>November the</hi> 22th, 1695.</date>
+                  </dateline>
+               </opener>
+               <note place="margin">
+                  <add>Subscribers to the land Bank 1695</add>
+               </note>
+               <p>ACcording to the Settlement of the <hi>Land-Bank,</hi> Inrolled in <hi>Chancery, Anno Dom.</hi> 1695; and purſuant to the Notice in the Monthly Account: The preſent Truſtees and Managers, have ap<g ref="char:EOLhyphen"/>pointed <hi>Monday</hi> the 25th Inſtant, to chuſe Twenty One Truſtees and Managers, to continue for one Year.</p>
+               <p>The Subſcribers are deſired to bring Twenty One Names in Writing, between the hours of 9 and 12 in the Forenoon, to Ballat for the Election.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Thomas Cockerill</hi> at the Three Legs in the <hi>Poultry;</hi> and <hi>Edward Jones</hi> in the <hi>Savoy,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
